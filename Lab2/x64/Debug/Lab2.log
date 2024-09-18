@@ -1,0 +1,14 @@
+﻿  ChildClass.cpp
+C:\Users\coleq\source\repos\Lab2\Lab2\Cylinder.h(23,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ChildClass.cpp')
+  
+C:\Users\coleq\source\repos\Lab2\Lab2\ChildClass.cpp(13,1): warning C4102: 'radius': unreferenced label
+C:\Users\coleq\source\repos\Lab2\Lab2\ChildClass.cpp(21,1): warning C4102: 'height': unreferenced label
+C:\Users\coleq\source\repos\Lab2\Lab2\ChildClass.cpp(29,31): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\coleq\source\repos\Lab2\Lab2\ChildClass.cpp(33,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+C:\Users\coleq\source\repos\Lab2\Lab2\Cylinder.h(23,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+  Generating Code...
+  Lab2.vcxproj -> C:\Users\coleq\source\repos\Lab2\x64\Debug\Lab2.exe
